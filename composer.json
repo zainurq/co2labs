@@ -1,0 +1,15 @@
+{
+    "name": "sysad/co2labs",
+    "autoload": {
+        "psr-4": {
+            "Sysad\\Co2labs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tanjung",
+            "email": "tanjungzainur@gmail.com"
+        }
+    ],
+    "require": {}
+}
